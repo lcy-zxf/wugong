@@ -6,6 +6,7 @@ public class jiuyangshengong {
 		// TODO Auto-generated method stub
 		System.out.println("1111111");
 		System.out.println("22222");
+		System.out.println("3333");
 	}
 
 }
